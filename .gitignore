@@ -1,3 +1,6 @@
+# Gitlab.json file needed to provide the repositories paths.
+gitlab.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
